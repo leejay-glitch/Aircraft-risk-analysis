@@ -44,7 +44,11 @@ This project explores historical aviation accident data to identify aircraft mak
 > Visuals correspond to the figures in the Jupyter Notebook and presentation slides.
 >
 > Below you can find an interactive dashboard with other visuals generated
-> https://public.tableau.com/views/AircraftRiskanalysisworkbook1/Generaloverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+> 
+> [View Interactive Tableau Dashboard](https://public.tableau.com/views/AircraftRiskanalysisworkbook1/Generaloverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> 
+> [View Interactive Tableau Dashboard](https://public.tableau.com/views/AircraftRiskanalysis_17459355541340/Trendsinyears?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Conclusion
 **Key Findings:**
