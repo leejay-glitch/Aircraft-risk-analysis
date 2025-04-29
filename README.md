@@ -2,7 +2,7 @@
 Analyzing aviation accident data from 1962 to 2023 to recommend low-risk aircraft models and operational strategies for safer business investments.
 
 ## Overview
-This project explores historical aviation accident data to identify aircraft makes and models with the lowest risk profiles, assess conditions under which accidents occur, and provide actionable recommendations for fleet composition and operational policies.
+This project explores historical aviation accident data to identify aircraft makes and models with the lowest risk profiles, assess conditions under which accidents occur, and provide actionable recommendations for the airline business.
 
 ## 📊 Business Understanding
 ### Stakeholders
@@ -50,10 +50,10 @@ This project explores historical aviation accident data to identify aircraft mak
 3. **Trends:** Accident frequency peaked in the 1990s and declined with modern avionics; post-2000 aircraft show lower injury averages.
 
 **Recommendations:**
-- Prioritize acquisition of low-injury models and equip fleets with advanced weather-avoidance technology.
+- Prioritize acquiring low-injury models and equip planes with advanced weather-avoidance technology.
 - Implement stricter weather-based dispatch policies and focus pilot training on adverse conditions.
-- Deploy rugged, high-survivability aircraft to remote regions and modern jets on high-traffic routes.
+- Deploy aircraft with greater survival measures to remote regions and modern jets on high-traffic routes.
 
 ---
-*For detailed methodology, full code, and interactive dashboard, see the Jupyter Notebook and `clean_data/aviation_data_cleaned.csv` in this repository.*
+*For detailed methodology, full code, and interactive dashboard, see the Jupyter Notebook and  in this repository.*
 
