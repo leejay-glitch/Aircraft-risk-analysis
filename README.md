@@ -31,12 +31,15 @@ This project explores historical aviation accident data to identify aircraft mak
 - Converted and validated data types for date and numeric fields.
 
 ## 📈 Visualizations
-1. **Injury Distribution Across All Accidents**  
-   ![Injury Distribution](notebooks/images/injury_distribution.png)
-2. **Top 10 Aircraft Models by Total Injuries**  
-   ![Model vs Injuries](notebooks/images/model_vs_injuries.png)
-3. **Accident and Injury Trends Over Time**  
-   ![Yearly Trends](notebooks/images/yearly_trends.png)
+1. **Injury Distribution Across All Accidents**
+   ![Total injuries and uninjured cases across all accidents](https://github.com/user-attachments/assets/fffbc912-3c79-4ec3-822d-972f2d8bbddd)
+
+3. **Top 10 Aircraft Models by Total Injuries**  
+   ![Top 10 aircraft models by injury severity](https://github.com/user-attachments/assets/0bc5a94a-8047-407f-981e-9f0d7afa1140)
+
+4. **Accident and Injury Trends Over Time**  
+  
+  ![yearly trends accidents and injuries](https://github.com/user-attachments/assets/bd2bfa8b-907b-4484-8af8-0e949d7b6628)
 
 > Visuals correspond to the figures in the Jupyter Notebook and presentation slides.
 
